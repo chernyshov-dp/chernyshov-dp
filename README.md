@@ -1,2 +1,2 @@
-<img align="left" width="390" alt="🐙" src="https://github.com/chernyshov-dev/chernyshov-dev/blob/master/metrics.svg">
-<img align="left" width="390" alt="🐙" src="https://github.com/chernyshov-dev/chernyshov-dev/blob/master/metrics.plugin.achievements.svg">
+<img align="left" width="390" alt="🐙" src="https://github.com/chernyshov-dev/chernyshov-dev/blob/main/metrics.svg">
+<img align="left" width="390" alt="🐙" src="https://github.com/chernyshov-dev/chernyshov-dev/blob/main/metrics.plugin.achievements.svg">
