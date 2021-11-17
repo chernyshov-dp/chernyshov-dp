@@ -1,4 +1,2 @@
-### Hey 👋
-[![Github](https://img.shields.io/github/followers/chernyshov-dev?label=Follow&style=social)](https://github.com/chernyshov-dev)
-![Metrics](https://github.com/chernyshov-dev/chernyshov-dev/blob/main/github-metrics.svg)
-[WakaTime stats](https://wakatime.com/@ChernyshovDev)
+<img align="left" width="390" alt="🐙" src="https://github.com/chernyshov-dev/chernyshov-dev/blob/master/metrics.svg">
+<img align="left" width="390" alt="🐙" src="https://github.com/chernyshov-dev/chernyshov-dev/blob/master/metrics.plugin.achievements.svg">
