@@ -1,1 +1,1 @@
-∫( ͡° ͜ʖ ͡°) dx
+Interested in tech and science
